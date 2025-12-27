@@ -10,7 +10,11 @@
     its unorganized af
     
     also, yes ik theres probably stuff where u could cd into a dir or something and itd be cleaner, this again, is my ball knowledge, cope and seeth
-
+# STUFF IK ABOUT JUST HAVENT TYPED OUT YET
+    tensorrt for jetsons, because its hella fast
+    hybrid models like liquid AFMs VLMs are fire, but honestly just havent messed w them enough yet to call them my goats. very solid tho.
+    theres probably better RAG models or like big repos ppl use, but again these are MY goats
+    rust ML engines. theyre just not as fast yet tbh, very exciting tho. working on helping some rn myself
 # MY GOATED STACK RN:
 
     RAG 
